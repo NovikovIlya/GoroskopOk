@@ -909,3 +909,5 @@
         isLaunchedFromOKApp: isLaunchedInOKAndroidWebView
     }
 }));
+
+export default OKSDK;
