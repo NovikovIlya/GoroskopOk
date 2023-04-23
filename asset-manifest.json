@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/GoroskopOk/static/css/main.3c938111.css",
-    "main.js": "/GoroskopOk/static/js/main.6d01f11c.js",
+    "main.js": "/GoroskopOk/static/js/main.67d8ab2a.js",
     "static/media/persik.png": "/GoroskopOk/static/media/persik.ae9f00727841e011ac15.png",
     "index.html": "/GoroskopOk/index.html",
     "main.3c938111.css.map": "/GoroskopOk/static/css/main.3c938111.css.map",
-    "main.6d01f11c.js.map": "/GoroskopOk/static/js/main.6d01f11c.js.map"
+    "main.67d8ab2a.js.map": "/GoroskopOk/static/js/main.67d8ab2a.js.map"
   },
   "entrypoints": [
     "static/css/main.3c938111.css",
-    "static/js/main.6d01f11c.js"
+    "static/js/main.67d8ab2a.js"
   ]
 }
